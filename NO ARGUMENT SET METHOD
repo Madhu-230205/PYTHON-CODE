@@ -6,7 +6,8 @@ class rect:
         print(self.w*self.h)
     def peri (self):
         print(2*(self.w+self.h))
-       
+
+
 l=[]
 n=int(input("enter num of rectangle"))
 for i in range(n):
